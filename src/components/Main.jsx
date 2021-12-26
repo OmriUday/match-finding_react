@@ -86,7 +86,7 @@ class Main extends Component {
         </div>
         {/* photo */}
         <div className="photo">
-          <img id='image' src={this.state.src} />
+          <img alt="pic" id='image' src={this.state.src} />
         </div>
         <div className="photoName">
         <h1>
